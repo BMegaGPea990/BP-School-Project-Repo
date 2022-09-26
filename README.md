@@ -3,6 +3,7 @@ Archives of my school projects, mostly written on Visual Basic. Cuz yeah, my sch
 
 # Requirements
 - Visual Studio 2012
+- Visual Basic 6.0
 - Borland C++ (No Visual Studio, zad)
 - Windows 10 32 Bit (Minimum requirement)
 
